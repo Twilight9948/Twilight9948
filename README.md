@@ -1,4 +1,3 @@
-# Twilight9948
 <h1 align="center">👋 Hello, I'm Wei Yutong</h1>
 
 <p align="center">
@@ -36,7 +35,7 @@ I'm passionate about the intersection of **AI, education, and human behavior** �
 
 ### 📌 Featured Projects
 
-#### ✍️ [SRL Writing Coach](https://github.com/Twillight9948/srl-writing-coach)
+#### ✍️ [SRL Writing Coach](https://github.com/Twilight9948/srl-writing-coach)
 *An AI-powered academic writing assistant based on Self-Regulated Learning (SRL) Theory*
 
 - Built with **Streamlit + DeepSeek API + Supabase**
@@ -49,8 +48,8 @@ I'm passionate about the intersection of **AI, education, and human behavior** �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twillight9948&show_icons=true&theme=vue&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twillight9948&layout=compact&theme=vue&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Twilight9948&show_icons=true&theme=vue&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twilight9948&layout=compact&theme=vue&hide_border=true"/>
 </p>
 
 ---
