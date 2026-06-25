@@ -45,11 +45,12 @@ I'm passionate about the intersection of **AI, education, and human behavior** �
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Quick Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Twilight9948&show_icons=true&theme=vue&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twilight9948&layout=compact&theme=vue&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Repositories-5+-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-EdTech-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Research%20Phase-orange?style=flat-square"/>
 </p>
 
 ---
